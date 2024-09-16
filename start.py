@@ -1,1 +1,2 @@
-print("welcome to python")
+print("welcome to ")
+age = int(input("32"))
